@@ -1,10 +1,14 @@
 {
-    "url": "https://cdn.midjourney.com/",
-    "preview": "_384_N.webp?method=shortest&qst=6&quality=15",
-    "type": 0,
-    "ids": [
-        "79a40314-2764-422c-b998-84fd0ea3f892",
-        "b138fa47-0a7f-4c68-9d86-3dbaebc552c2"
+    "url": "https://cdn.midjourney.com",
+    "list": [
+        {
+            "id": "ty7zZQHZCZU=",
+            "list": [
+                "b138fa47-0a7f-4c68-9d86-3dbaebc552c2/0_0",
+                "b138fa47-0a7f-4c68-9d86-3dbaebc552c2/0_1",
+            ]
+        }
+
     ]
 
 }
